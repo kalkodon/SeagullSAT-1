@@ -70,7 +70,7 @@ void setup() {
   }
   Xbee.println("SEAGULLSAT-1 FIRMWARE V1.0");
   Xbee.println("--------------------------");
-  Xbee.println("SD card => OK");
+  Xbee.println("SD card => OK"); // debugging
   Xbee.println("Sensors => OK");
   Xbee.println("Communications => OK");
 }
